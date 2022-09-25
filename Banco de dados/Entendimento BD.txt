@@ -1,0 +1,17 @@
+Mais do que essas linguagens – como Java, Scala e Python, entre outras -, ele deve dominar amplamente toda a lógica e complexidade por trás de conceitos como big data e computação em nuvem.
+
+A partir desses conhecimentos, o engenheiro de dados concebe, constrói e testa arquiteturas de sistemas de processamento de dados.
+
+Ele será responsável pelas soluções de aquisição de dados e de combinação de fontes de dados.
+
+A partir daí, o engenheiro cria o pipeline de dados, ou seja, o processo pelo qual a informação passa, incluindo a entrada no sistema, o processamento e o armazenamento, de modo a facilitar a consulta posterior.
+
+É importante que o engenheiro de dados tenha também conhecimentos sobre análise preditiva e prescritiva, para facilitar ao máximo o trabalho que vem depois (falaremos sobre ele adiante).
+
+Banco de dados Relacioanal (SQL): Orientado a um Schema, utiliza o conceito de tabelas para armazenar dados. segue a orientação Databse > Table > Rows > Column.
+Principais características: Segurança, Integridade. caso ocorra um problema durante sua operação ele retornará ao estado anterior, mecanismos de segurança e trigger internos. tabelas são orientadas ao conceitos de PK e FK, e cardinalidade (1:1, 1:N, N:M). É muito mais utilizado do que os modelos NoSQL e muito mais antigo.
+Segue o ACID (Atomicidade, Consistência, Isolamento e Durabilidade)
+
+Banco de dados Não Relacional (NoSQL) - Não utiliza Schema. É apresentado com diferentes tipos como grafos, coluna/família, chave-valor e documento sendo o mais popular entre eles o modelo de documento. O mais utilizado é o MongoDB sendo um software opensource de alta performance que utiliza BSON.
+
+Segue BASE (Basically Available, Soft-State e Eventually Consistent)
