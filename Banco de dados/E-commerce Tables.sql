@@ -1,0 +1,9 @@
+-- select * from product;
+-- select * from client;
+-- select * from payments;
+-- select * from orders;
+-- select * from supplier;
+-- select * from seller;
+-- select * from productSeller;
+-- select * from productOrder;
+-- select * from storageLocation;
